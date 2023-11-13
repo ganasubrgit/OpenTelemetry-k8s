@@ -1,3 +1,6 @@
+# Desktop/Laptop App requirement
+    Rancher Desktop with K3s
+
 # Monitoring Microservices application using OpenTelemetry 
 Reference Documentation: https://opentelemetry.io/docs/
 
