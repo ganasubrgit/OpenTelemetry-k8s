@@ -2,9 +2,10 @@
 Reference Documentation: https://opentelemetry.io/docs/
 
 # 1. Install and Configure Microservices Application:  
-
-    cd opentelemetry-app
+    
     kubectl create namespace otel-demo
+    
+    cd opentelemetry-app
     kubectl apply -n otel-demo -f .
 
 # 2. Install and Configure Open Telemetry Collector:  
